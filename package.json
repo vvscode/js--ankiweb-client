@@ -1,0 +1,23 @@
+{
+  "name": "js--ankiweb-client",
+  "version": "0.0.0",
+  "description": "Node.js client for AnkiWeb server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vvscode/js--ankiweb-client.git"
+  },
+  "keywords": [
+    "anki",
+    "ankiweb"
+  ],
+  "author": "Vasiliy [vvscode] Vanchuk",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vvscode/js--ankiweb-client/issues"
+  },
+  "homepage": "https://github.com/vvscode/js--ankiweb-client#readme"
+}
